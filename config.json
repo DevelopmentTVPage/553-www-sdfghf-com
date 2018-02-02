@@ -1,0 +1,15 @@
+{
+    "title": "Mom",
+    "baseURL": "https:\/\/www.sdfghf.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759130",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "sdfghf.com"
+    }
+}
